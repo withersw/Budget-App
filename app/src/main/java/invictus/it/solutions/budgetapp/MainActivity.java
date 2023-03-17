@@ -51,6 +51,9 @@ public class MainActivity extends AppCompatActivity {
                 list.add(values);
                 budget_list.setAdapter(arrayAdapter);
                 arrayAdapter.notifyDataSetChanged();
+
+                inputName.setText("");
+                inputValue.setText("");
             }
         }));
 
