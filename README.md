@@ -3,6 +3,8 @@ This app is to make budgeting easier and more mobile. I created it to further my
 
 [Software Demo Video](https://www.youtube.com/watch?v=RVWHGBO8JGY)
 
+[Software Demo Video With Added Login Page](https://www.youtube.com/watch?v=37ieAxpiAyg)
+
 # Development Environment
 
 * Android Studio
